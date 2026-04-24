@@ -10,9 +10,23 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    
     min-height: 100vh;
     background-color: #212121;
 }
+h1 {
+    
+    font-size: 2.9rem;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    background: linear-gradient(500deg, white);
+    -webkit-background-clip: text;
+    margin-bottom: 30rem;
+    position: relative;
+}
+
+
+
 
 .container{
     position: relative;
